@@ -1,0 +1,9 @@
+TAG: Tags are keywords in html 
+EXAMPLE: <h1>Vijayan</h1>
+	  { <h1>,</h1> are tags }
+	 
+
+
+ELEMENT:  An HTML element is a collection of start and end tags with the content inserted in between them.
+EXAMPLE:  <h1>Vijayan</h1>
+	  
